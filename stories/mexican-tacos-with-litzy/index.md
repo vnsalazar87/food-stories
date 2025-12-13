@@ -19,7 +19,7 @@ This story comes from a student abroad trip I went on in 2024. On one particular
   class="right"
   width="40%"
   caption="Taco from the cooking school"
-  image-path="IMG_E5539.heic"
+  image-path="IMG_E5539.HEIC"
 %}
 
 
